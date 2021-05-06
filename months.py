@@ -38,6 +38,8 @@ def main():
         print("November!")
     elif month == 12:
         print("December!")
+    else:
+        print("That's not a month!")
 
 
 if __name__ == "__main__":
